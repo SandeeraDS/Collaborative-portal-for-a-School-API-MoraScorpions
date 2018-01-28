@@ -1,0 +1,99 @@
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\full db\2017-12-20\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\NEW NEW full Db Try List\2018-1-16-part3\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17\2018-1-16-part3--used as original--Now Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\Full Db operations\2018-1-17 now use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Test new Connection\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.deps.json
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.json
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.runtimeconfig.dev.json
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\bin\Debug\netcoreapp1.1\TestFullDatabase.pdb
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfoInputs.cache
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.AssemblyInfo.cs
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.dll
+C:\Users\DS-PC\Desktop\Project\MoraScorpionsSchoolManagement\Use\TestFullDatabase\TestFullDatabase\obj\Debug\netcoreapp1.1\TestFullDatabase.pdb
