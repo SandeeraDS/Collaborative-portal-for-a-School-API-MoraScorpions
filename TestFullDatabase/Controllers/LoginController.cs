@@ -24,7 +24,7 @@ namespace TestFullDatabase.Controllers
         }
 
 
-
+        //Login for Android App
         [HttpGet("{Email}/{Password}", Name = "Login")]
         public IActionResult CheckLogin(string Email, string Password)
         {
