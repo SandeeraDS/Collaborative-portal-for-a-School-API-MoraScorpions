@@ -24,6 +24,11 @@ namespace TestFullDatabase.Controllers
 
 
         }
+        [HttpGet]
+        public IEnumerable<HomeworkDetails> GetAll()
+        {
+            return _context.HomeworkDetails;
+        }
 
         //add a homework
         //achiya

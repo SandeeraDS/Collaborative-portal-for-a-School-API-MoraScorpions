@@ -22,7 +22,7 @@ namespace TestFullDatabase.Controllers
 
 
 
-        //add subject
+        //Get All subject
         [HttpGet]
         public IEnumerable<Subject> GetAllsubject()
         {
